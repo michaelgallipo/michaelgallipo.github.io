@@ -1,0 +1,53 @@
+/* Container holding the image and the text */
+#quotes {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+}
+
+.jmg-header {
+  position: absolute;
+  top: 10%;
+  left: 45%;
+  text-align: center;
+}
+
+/*button {
+
+}*/
+
+svg {
+  padding: 10px;
+}
+
+
+.jmg-arrow {
+    -webkit-appearance: none;
+  background: transparent;
+  border: 0;
+  outline:0;
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  margin-top: -45px;
+  margin-left: -35px;
+  width: 70px;
+  height: 90px;
+}
+
+.jmg-right {
+  left: 85%;
+}
+
+.jmg-left {
+  left: 15%;
+}
