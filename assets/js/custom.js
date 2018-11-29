@@ -23,6 +23,21 @@ const quotes = [
   {
     text: "Revolutions only get names after it's clear who won.",
     author: "G. Willow Winslow, 'Alif the Unseen'"
+  },
+  {
+    text:
+      "And yet the result has not been a greater respect for knowledge, but the growth of an irrational conviction among Americans that everyone is as smart as everyone else. This is the opposite of education which should aim to make people, no matter how smart or accomplished they are, learners for the rest of their lives. Rather we now live in a society where the acquisition of even a little learning is the endpoint, rather than the beginning of education.",
+    author: "Tom Nichols, 'The Death of Expertise'"
+  },
+  {
+    text:
+      "First, and perhaps most important, if you are going to try to use new data to revolutionize a field, it is best to go into a field where the old methods are lousy.",
+    author: "Seth Stephens-Davidowitz, 'Everybody Lies'"
+  },
+  {
+    text:
+      "You know I am really starting to think the whole world is just a patchwork quilt of crazy little cults, all with their own secret spaces, their own records, their own rules.",
+    author: "Robin Sloan, 'Mr. Penumbra's 24-Hour Bookstore'"
   }
 ];
 
