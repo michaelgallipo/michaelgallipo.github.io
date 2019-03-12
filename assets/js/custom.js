@@ -38,6 +38,16 @@ const quotes = [
     text:
       "You know I am really starting to think the whole world is just a patchwork quilt of crazy little cults, all with their own secret spaces, their own records, their own rules.",
     author: "Robin Sloan, 'Mr. Penumbra's 24-Hour Bookstore'"
+  },
+  {
+    text:
+      "No book is dangerous in and of itself, you know. But historically, reading a book the wrong way has led to terrible consequences.",
+    author: "Edgar Cantero, 'Meddling Kids'"
+  },
+  {
+    text:
+      "Everyone can make a difference, no matter how short a time in this world they have, or how small a perceived contribution they make.",
+    author: "J. Robert Kennedy, 'Brass Monkey'"
   }
 ];
 
