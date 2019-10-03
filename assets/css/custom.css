@@ -51,3 +51,16 @@ svg {
 .jmg-left {
 	left: 15%;
 }
+
+#lacrosse {
+	height: 40px;
+	width: 40px;
+	position: relative;
+	top: 15px;
+}
+
+#education {
+	width: 34em;
+	padding-top: 3em;
+	font-size: 0.9em;
+}
