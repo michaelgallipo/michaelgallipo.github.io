@@ -53,6 +53,11 @@ const quotes = [
     text:
 			"Everyone can make a difference, no matter how short a time in this world they have, or how small a perceived contribution they make.",
     author: "J. Robert Kennedy, 'Brass Monkey'"
+  },
+  {
+    text:
+      "All you can do... all any of us can do - is work to be something positive instead. That is the choice that every [person] must make every day of their life. The universe is what we make of it. It's up to you to decide what part you will play.",
+    author: "Becky Chambers, 'The Long Way to a Small Angry Planet'"
   }
 ];
 
