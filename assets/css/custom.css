@@ -85,10 +85,12 @@ svg {
 	
 	.quote {
 		font-size: 6.5px;
+		font-weight: bold;
 	}
 
 	.author {
 		font-size: 6.5px;
+		font-weight: bold;
 	}
 
 	.jmg-header {
