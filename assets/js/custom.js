@@ -58,6 +58,15 @@ const quotes = [
     text:
       "All you can do... all any of us can do - is work to be something positive instead. That is the choice that every [person] must make every day of their life. The universe is what we make of it. It's up to you to decide what part you will play.",
     author: "Becky Chambers, 'The Long Way to a Small Angry Planet'"
+  },
+  {
+    text:
+      "Some idiots thought being the boss was all about ordering others around, but Logan knew the truth. Being a leader was the ultimate service position, at least if you were doing it right.",
+    author: "Isaac Hooke, 'World War R'"
+  },
+  {
+    text: "... every choice we make is a new tomorrow. Whole worlds waiting to be born.",
+    author: "P. Djeli Clark, 'Ring Shout'"
   }
 ];
 
