@@ -18,17 +18,32 @@
 .jmg-header {
 	position: absolute;
 	top: 10%;
-	left: 45%;
+	left: 40%;
 	text-align: center;
+	font-size: 2em;
+	font-weight: bold;
 }
+
+.quote {
+	font-size: 1em;
+	line-height: 1.25em;
+}
+
+.author {
+	font-size: 1em;
+}
+
+svg {
+	padding: 10px;
+	width: 60px;
+	height: 80px;
+}
+
 
 /*button {
 
 }*/
 
-svg {
-	padding: 10px;
-}
 
 .jmg-arrow {
 	-webkit-appearance: none;
@@ -63,4 +78,44 @@ svg {
 	width: 34em;
 	padding-top: 3em;
 	font-size: 0.9em;
+}
+
+
+@media screen and (max-width: 500px) {
+	
+	.quote {
+		font-size: 6.5px;
+		font-weight: bold;
+	}
+
+	.author {
+		font-size: 6.5px;
+		font-weight: bold;
+	}
+
+	.jmg-header {
+		font-size: 0.75em;
+	}
+
+	svg {
+		width: 30px;
+		height: 40px;
+	}
+
+	#five {
+		font-size: 0.5em;
+		line-height: 1.25em;
+	}
+
+	#six {
+		font-size: 0.5em;
+		line-height: 1.25em;
+	}
+
+	#lacrosse {
+		height: 20px;
+		width: 20px;
+		position: relative;
+		top: 7.5px;
+	}
 }
